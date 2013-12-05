@@ -44,19 +44,24 @@ class GoogleCustomSearch(object):
         self.search_engine_id = search_engine_id
         self.api_key = api_key
 
-    def search(self, keyword, site=None, max_results=10):
+    def search(self, keyword, site=None, max_results=100):
         assert isinstance(keyword, basestring)
 
-        url = self._make_url(keyword, site)
+        for start_index in range(1, max_results, 10):  # 10 is max page size
+            url = self._make_url(start_index, keyword, site)
+            logging.info(url)
 
-        response = requests.get(url)
-        if response.status_code == 403:
-            logging.info(response.content)
-        response.raise_for_status()
-        for search_result in _decode_response(response.content):
-            yield search_result
+            response = requests.get(url)
+            if response.status_code == 403:
+                LOG.info(response.content)
+            response.raise_for_status()
+            for search_result in _decode_response(response.content):
+                yield search_result
+                if 'nextPage' not in search_result['meta']['queries']:
+                    print("No more pages...")
+                    return
 
-    def _make_url(self, keyword, restrict_to_site):
+    def _make_url(self, start_index, keyword, restrict_to_site):
 
         if restrict_to_site is not None:
             keyword = 'site:{} {}'.format(_strip_protocol(restrict_to_site),
