@@ -56,6 +56,8 @@ http://stackoverflow.com/a/11206266
 - Allows separating billing for different projects, using the same custom
   search engine.
 
+- To view your quota, go to "APIs & auth" => "APIs" => "Custom Search API"
+  => "Quota" at the top.
 
 When you make a Cloud Project, you need to enable the "Custom Search API"
 feature.
