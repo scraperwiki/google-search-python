@@ -65,3 +65,14 @@ feature.
 
 To get an API key, go to "APIs & Auth" => Registered apps => Register New App
 => Web Application => Server Key
+
+# Limitations
+
+If you try and search across more than 10 sites (including "the whole web")
+you'll get results from a limited subset of the Google Index:
+
+[https://support.google.com/customsearch/answer/70392?hl=en](https://support.google.com/customsearch/answer/70392?hl=en)
+
+"""If your custom search engine includes more than ten sites, the results may
+be from a subset of our index and may differ from the results of a 'site:'
+search on Google.com."""
