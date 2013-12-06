@@ -1,0 +1,412 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - football",
+    "totalResults": "115000000",
+    "searchTerms": "football",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "001459363975341025581:aqu-uw-jx1w",
+    "cref": "https://www.google.com/cse/publicurl?cx=001459363975341025581:aqu-uw-jx1w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - football",
+    "totalResults": "115000000",
+    "searchTerms": "football",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "001459363975341025581:aqu-uw-jx1w",
+    "cref": "https://www.google.com/cse/publicurl?cx=001459363975341025581:aqu-uw-jx1w"
+   }
+  ]
+ },
+ "context": {
+  "title": "ScraperWiki Web Searcher"
+ },
+ "searchInformation": {
+  "searchTime": 0.375392,
+  "formattedSearchTime": "0.38",
+  "totalResults": "115000000",
+  "formattedTotalResults": "115,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "American football - Wikipedia, the free encyclopedia",
+   "htmlTitle": "American \u003cb\u003efootball\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/American_football",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "American football (known as football in the United States and gridiron in some \nother countries) is a sport played by two teams of eleven players on a rectangular\n ...",
+   "htmlSnippet": "American \u003cb\u003efootball\u003c/b\u003e (known as \u003cb\u003efootball\u003c/b\u003e in the United States and gridiron in some \u003cbr\u003e\nother countries) is a sport played by two teams of eleven players on a rectangular\u003cbr\u003e\n&nbsp;\u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DTMSkIrLtLEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/American_football",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/American_\u003cb\u003efootball\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg/290px-Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "190",
+      "height": "266",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCj6OXshtRfaaNcIqMCVV3PLX6W2VaIbjnoITd4QNo0EvhYYYtu7oI0RRo"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "American football"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NFL.com - Official Site of the National Football League",
+   "htmlTitle": "NFL.com - Official Site of the National \u003cb\u003eFootball\u003c/b\u003e League",
+   "link": "http://www.nfl.com/",
+   "displayLink": "www.nfl.com",
+   "snippet": "The official source for NFL news, video highlights, fantasy football, game-day \ncoverage, schedules, stats, scores and more.",
+   "htmlSnippet": "The official source for NFL news, video highlights, fantasy \u003cb\u003efootball\u003c/b\u003e, game-day \u003cbr\u003e\ncoverage, schedules, stats, scores and more.",
+   "cacheId": "Ug6zzdsquUoJ",
+   "formattedUrl": "www.nfl.com/",
+   "htmlFormattedUrl": "www.nfl.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.nfl.com/static/content/public/photo/2013/12/03/0ap2000000292382.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0WXDBeI4PygJTMYaI8tLNGgVYrqOmKOQ7dQI7_oyg_bjLmKXhcMQiiQr"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1024",
+      "uses-newconsole": "true",
+      "scorestrip-show": "true",
+      "scorestrip-type": "DEFAULT",
+      "show-banner-ads": "true",
+      "banner-ad-type": "728x90",
+      "fb:app_id": "108273802559405",
+      "msvalidate.01": "EDD46A4B9FD14F0A47471FDE9821BA49",
+      "og:title": "NFL.com - Official Site of the National Football League",
+      "apple-itunes-app": "app-id=389781154, affiliate-data=at=11l7iA&ct=hp",
+      "decorator": "home-home-yui"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Football - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eFootball\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Football",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Football refers to a number of sports that involve, to varying degrees, kicking a \nball with the foot to score a goal. The most popular of these sports worldwide is ...",
+   "htmlSnippet": "\u003cb\u003eFootball\u003c/b\u003e refers to a number of sports that involve, to varying degrees, kicking a \u003cbr\u003e\nball with the foot to score a goal. The most popular of these sports worldwide is&nbsp;\u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fB9SluZRlm8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Football",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eFootball\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Football4.png/260px-Football4.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "248",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOM3_FEIiLkCPTR7T7w6XG7PjLo-T_n0kYkknbjoAsFp-hUo8ePfQuxI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Football | NFL, NCAA, MLS | International Leagues & Clubs",
+   "htmlTitle": "\u003cb\u003eFootball\u003c/b\u003e | NFL, NCAA, MLS | International Leagues &amp; Clubs",
+   "link": "https://www.football.com/",
+   "displayLink": "www.football.com",
+   "snippet": "Football.com is the home of everything football. Get the latest news, game scores, \nhighlights, and editorials on your favorite NFL teams and players.",
+   "htmlSnippet": "\u003cb\u003eFootball\u003c/b\u003e.com is the home of everything \u003cb\u003efootball\u003c/b\u003e. Get the latest news, game scores, \u003cbr\u003e\nhighlights, and editorials on your favorite NFL teams and players.",
+   "cacheId": "rV72yMRLMbMJ",
+   "formattedUrl": "https://www.football.com/",
+   "htmlFormattedUrl": "https://www.\u003cb\u003efootball\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.football.com/images/football-com.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "160",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQd8B-v80ZrDpSsovy7xCdWySLZRd1xqGxn53U4LpiFhqeSReUdI7ernEB"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Football | NFL, NCAA, MLS | International Leagues & Clubs",
+      "og:description": "Football.com is the home of everything football. Get the latest news, game scores, highlights, and editorials on your favorite NFL teams and players.",
+      "og:url": "http://www.football.com/en-us/",
+      "og:image": "http://www.football.com/images/football-com.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Association football - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Association \u003cb\u003efootball\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Association_football",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Association football, commonly known as football or soccer, is a sport played \nbetween two teams of eleven players with a spherical ball. It is played by 250 ...",
+   "htmlSnippet": "Association \u003cb\u003efootball\u003c/b\u003e, commonly known as \u003cb\u003efootball\u003c/b\u003e or soccer, is a sport played \u003cbr\u003e\nbetween two teams of eleven players with a spherical ball. It is played by 250&nbsp;\u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "og4UokzQ_jIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Association_football",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Association_\u003cb\u003efootball\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Football_iu_1996.jpg/300px-Football_iu_1996.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "166",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRciUurqbXop6AzsUO_InpBoQIw-XKbvR3hrUfToNJ2qZGhqWycoX4flKE"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Association football"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NCAA College Football Teams, Scores, Stats, News, Standings ...",
+   "htmlTitle": "NCAA College \u003cb\u003eFootball\u003c/b\u003e Teams, Scores, Stats, News, Standings \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/college-football/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest NCAA college football news, scores, stats, standings, and more on \nESPN.com.",
+   "htmlSnippet": "Get the latest NCAA college \u003cb\u003efootball\u003c/b\u003e news, scores, stats, standings, and more on \u003cbr\u003e\nESPN.com.",
+   "cacheId": "gJo8f-FjSPYJ",
+   "formattedUrl": "espn.go.com/college-football/",
+   "htmlFormattedUrl": "espn.go.com/college-\u003cb\u003efootball\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/combiner/i?img=i/espn/espn_facebook.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIBOvD4fhMw4UO1J6VE_Gk0I1_fYhCxUUnxpienpwR4qfqcaVpdqDbcfAh"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "twitter:card": "summary",
+      "twitter:site": "espn",
+      "twitter:title": "NCAA College Football Teams, Scores, Stats, News, Standings, Rumors - College Football",
+      "og:title": "NCAA College Football Teams, Scores, Stats, News, Standings, Rumors - College Football",
+      "twitter:description": "Get the latest NCAA college football news, scores, stats, standings, and more on ESPN.com.",
+      "og:description": "Get the latest NCAA college football news, scores, stats, standings, and more on ESPN.com.",
+      "og:url": "http://espn.go.com/college-football/",
+      "twitter:image": "http://a.espncdn.com/combiner/i?img=i/espn/espn_twitter.png",
+      "og:image": "http://a.espncdn.com/combiner/i?img=i/espn/espn_facebook.png",
+      "twitter:app:name:iphone": "SportsCenter",
+      "twitter:app:id:iphone": "317469184",
+      "twitter:app:name:googleplay": "SportsCenter",
+      "twitter:app:id:googleplay": "com.espn.score_center",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fédération Internationale de Football Association (FIFA) - FIFA.com",
+   "htmlTitle": "Fédération Internationale de \u003cb\u003eFootball\u003c/b\u003e Association (FIFA) - FIFA.com",
+   "link": "http://www.fifa.com/",
+   "displayLink": "www.fifa.com",
+   "snippet": "The official site of the international governing body of football with news, national \nassociations, competitions, results, fixtures, development, organisation, world ...",
+   "htmlSnippet": "The official site of the international governing body of \u003cb\u003efootball\u003c/b\u003e with news, national \u003cbr\u003e\nassociations, competitions, results, fixtures, development, organisation, world&nbsp;\u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qTzAZK0A6_sJ",
+   "formattedUrl": "www.fifa.com/",
+   "htmlFormattedUrl": "www.fifa.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fifa.com/imgml/smo/smologo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "160",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiBOWACwfnPTFDt_akD8DDpSD7h_gtRADxcrtiRUPNodmjUtvhbPdZbnw"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "FIFA.com",
+      "thumb": "/imgml/smo/smologo.jpg",
+      "fb:app_id": "500163113370079",
+      "twitter:account_id": "140070953",
+      "og:type": "website",
+      "og:image": "http://www.fifa.com/imgml/smo/smologo.jpg",
+      "og:image:url": "http://www.fifa.com/imgml/smo/smologo.jpg",
+      "og:image:type": "jpg",
+      "og:image:width": "300",
+      "og:image:height": "300",
+      "og:url": "http://www.fifa.com/index.html",
+      "og:description": "The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.",
+      "og:locale": "en_GB",
+      "og:site_name": "FIFA.com",
+      "article:tag": "Fédération Internationale de Football Association,FIFA,national football associations,International Football Association Board, football, soccer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NFL Football Teams, Scores, Stats, News, Standings, Rumors ...",
+   "htmlTitle": "NFL \u003cb\u003eFootball\u003c/b\u003e Teams, Scores, Stats, News, Standings, Rumors \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/nfl/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest NFL football news, scores, stats, standings, fantasy games, and \nmore on ESPN.com.",
+   "htmlSnippet": "Get the latest NFL \u003cb\u003efootball\u003c/b\u003e news, scores, stats, standings, fantasy games, and \u003cbr\u003e\nmore on ESPN.com.",
+   "cacheId": "qq1kqGgfA9YJ",
+   "formattedUrl": "espn.go.com/nfl/",
+   "htmlFormattedUrl": "espn.go.com/nfl/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/combiner/i?img=i/espn/espn_facebook.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIBOvD4fhMw4UO1J6VE_Gk0I1_fYhCxUUnxpienpwR4qfqcaVpdqDbcfAh"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "twitter:card": "summary",
+      "twitter:site": "espn",
+      "twitter:title": "NFL Football Teams, Scores, Stats, News, Standings, Rumors - National Football League",
+      "og:title": "NFL Football Teams, Scores, Stats, News, Standings, Rumors - National Football League",
+      "twitter:description": "Get the latest NFL football news, scores, stats, standings, fantasy games, and more on ESPN.com.",
+      "og:description": "Get the latest NFL football news, scores, stats, standings, fantasy games, and more on ESPN.com.",
+      "og:url": "http://espn.go.com/nfl/",
+      "twitter:image": "http://a.espncdn.com/combiner/i?img=i/espn/espn_twitter.png",
+      "og:image": "http://a.espncdn.com/combiner/i?img=i/espn/espn_facebook.png",
+      "twitter:app:name:iphone": "SportsCenter",
+      "twitter:app:id:iphone": "317469184",
+      "twitter:app:name:googleplay": "SportsCenter",
+      "twitter:app:id:googleplay": "com.espn.score_center",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American Football Tickets on StubHub!",
+   "htmlTitle": "American \u003cb\u003eFootball\u003c/b\u003e Tickets on StubHub!",
+   "link": "http://www.stubhub.com/football-tickets/",
+   "displayLink": "www.stubhub.com",
+   "snippet": "American Football Tickets - Buy and sell American Football tickets on StubHub!",
+   "htmlSnippet": "American \u003cb\u003eFootball\u003c/b\u003e Tickets - Buy and sell American \u003cb\u003eFootball\u003c/b\u003e tickets on StubHub!",
+   "cacheId": "F5aFuC3A5k4J",
+   "formattedUrl": "www.stubhub.com/football-tickets/",
+   "htmlFormattedUrl": "www.stubhub.com/\u003cb\u003efootball\u003c/b\u003e-tickets/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cache1.stubhubstatic.com/promotions/scratch/fb/sh-fb-tile-438.png"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "c9717223d7dfee0a",
+      "msvalidate.01": "38EDDF2A17C2096F541940E51BD2B9DF",
+      "fb:app_id": "109259765770403",
+      "og:title": "Football Tickets",
+      "og:image": "http://cache1.stubhubstatic.com/promotions/scratch/fb/sh-fb-tile-438.png",
+      "og:url": "http://www.stubhub.com/football-tickets/",
+      "og:type": "website",
+      "apple-itunes-app": "app-id=366562751, affiliate-data=partnerId=30&siteID=LBcKuCVwTGU, app-argument=stubhub:\\/\\/genre_id=31&ref=ios_smart_app_banner_www",
+      "og:site_name": "StubHub",
+      "og:locale": "en_US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Youth Football | USA Football | Football's National Governing Body",
+   "htmlTitle": "Youth \u003cb\u003eFootball\u003c/b\u003e | USA \u003cb\u003eFootball\u003c/b\u003e | \u003cb\u003eFootball&#39;s\u003c/b\u003e National Governing Body",
+   "link": "http://usafootball.com/",
+   "displayLink": "usafootball.com",
+   "snippet": "As football's national governing body USA Football is a valued resource for \nfootball fans and youth football coaches. Visit us for all your football needs.",
+   "htmlSnippet": "As \u003cb\u003efootball&#39;s\u003c/b\u003e national governing body USA \u003cb\u003eFootball\u003c/b\u003e is a valued resource for \u003cbr\u003e\n\u003cb\u003efootball\u003c/b\u003e fans and youth \u003cb\u003efootball\u003c/b\u003e coaches. Visit us for all your \u003cb\u003efootball\u003c/b\u003e needs.",
+   "cacheId": "W_8nUrdSSN0J",
+   "formattedUrl": "usafootball.com/",
+   "htmlFormattedUrl": "usa\u003cb\u003efootball\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://usafootball.com/sites/default/files/images/mobile_cep_3_slider.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "177",
+      "height": "285",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1E9SkY76MaE6K-FinQC-C6uac8HhjwRm89l5Je5BO6UwpeRxv_ALK1gc"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ]
+   }
+  }
+ ]
+}
