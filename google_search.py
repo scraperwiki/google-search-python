@@ -12,15 +12,20 @@ from collections import OrderedDict
 
 import requests
 
+LOG = logging.getLogger('sw.google_search')
+
 
 def _decode_response(json_string):
     response = json.loads(json_string)
 
     meta = {key: value for key, value in response.items() if key != 'items'}
-    if int(meta['searchInformation']['totalResults']) == 0:
-        logging.info("INFO: no search results.")
-        logging.info(json.dumps(response, indent=4))
+    num_results = int(meta['searchInformation']['totalResults'])
+    if num_results == 0:
+        LOG.info("No search results.")
+        LOG.info(json.dumps(response, indent=4))
         return []
+    else:
+        LOG.info("{} results.".format(num_results))
 
     for item in response['items']:
         item['meta'] = meta
