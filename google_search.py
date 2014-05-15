@@ -71,7 +71,8 @@ class GoogleCustomSearch(object):
         if restrict_to_site is not None:
             keyword = 'site:{} {}'.format(_strip_protocol(restrict_to_site),
                                           keyword)
-
+        # https://developers.google.com
+        # /custom-search/json-api/v1/reference/cse/list
         params = OrderedDict([
             ('cx', self.search_engine_id),
             ('key', self.api_key),
